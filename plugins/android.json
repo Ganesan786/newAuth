@@ -25,12 +25,12 @@
         "ionic-plugin-keyboard": {
             "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
         },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
-        },
         "cordova-plugin-facebook": {
             "FACEBOOK_APP_ID": "1221884961227558",
             "FACEBOOK_DISPLAY_NAME": "ganesan",
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "cordova-plugin-inappbrowser": {
             "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
         }
     },

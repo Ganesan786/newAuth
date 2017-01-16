@@ -30,18 +30,18 @@ module.exports = [
         "runs": true
     },
     {
+        "file": "plugins/cordova-plugin-facebook/www/CordovaFacebook.js",
+        "id": "cordova-plugin-facebook.CordovaFacebook",
+        "clobbers": [
+            "CordovaFacebook"
+        ]
+    },
+    {
         "file": "plugins/cordova-plugin-inappbrowser/www/inappbrowser.js",
         "id": "cordova-plugin-inappbrowser.inappbrowser",
         "clobbers": [
             "cordova.InAppBrowser.open",
             "window.open"
-        ]
-    },
-    {
-        "file": "plugins/cordova-plugin-facebook/www/CordovaFacebook.js",
-        "id": "cordova-plugin-facebook.CordovaFacebook",
-        "clobbers": [
-            "CordovaFacebook"
         ]
     }
 ];
@@ -54,8 +54,8 @@ module.exports.metadata =
     "cordova-plugin-statusbar": "2.2.1",
     "cordova-plugin-whitelist": "1.3.1",
     "ionic-plugin-keyboard": "2.2.1",
-    "cordova-plugin-inappbrowser": "1.2.1",
-    "cordova-plugin-facebook": "0.2.2"
+    "cordova-plugin-facebook": "0.2.2",
+    "cordova-plugin-inappbrowser": "1.2.1"
 };
 // BOTTOM OF METADATA
 });
