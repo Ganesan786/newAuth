@@ -1,0 +1,38 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        },
+        "cordova-plugin-facebook": {
+            "FACEBOOK_APP_ID": "1221884961227558",
+            "FACEBOOK_DISPLAY_NAME": "ganesan",
+            "PACKAGE_NAME": "com.ionicframework.loginwithfacebook676639"
+        }
+    },
+    "dependent_plugins": {}
+}
